@@ -9,6 +9,7 @@ import SwiftUI
 
 @main
 struct Sample12_ViewZoomApp: App {
+
     var body: some Scene {
         WindowGroup {
             ContentView()
